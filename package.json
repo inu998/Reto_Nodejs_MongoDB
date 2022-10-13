@@ -1,0 +1,16 @@
+{
+  "name": "reto-nodejs-y-mongodb",
+  "version": "1.0.0",
+  "description": "Servidor-api",
+  "main": "Servidor.js",
+  "scripts": {
+    "start": "nodemon Servidor"
+  },
+  "author": "Brayan Mejia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.6.5",
+    "nodemon": "^2.0.20"
+  }
+}
